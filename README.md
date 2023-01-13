@@ -33,6 +33,3 @@
 <a href="https://www.instagram.com/alexandresantosal91/"><img src="https://img.shields.io/badge/-Instagram-BD081C?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
-
-
-<p align="center">Total de visitas no meu perfil.<br><img alingn="center" src="https://profile-counter.glitch.me/alexandresantosal91/count.svg"</><p/>
