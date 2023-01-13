@@ -1,8 +1,6 @@
 <h1>Olá, me chamo Alexandre Santos!☕</h1>
 
-<p>
-Sou apaixonado por tecnologia! Tive meu primeiro contato com a informática aos 10 anos de idade e desde então venho descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida das pessoas, acredito que o conhecimento é algo que todos deveriam ter acesso.
-</p>
+<p align="justify">Sou apaixonado por tecnologia! Tive meu primeiro contato com a informática aos 10 anos de idade e desde então venho descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida das pessoas, acredito que o conhecimento é algo que todos deveriam ter acesso.</p>
 
 <h3>Contatos:</h3>
 
