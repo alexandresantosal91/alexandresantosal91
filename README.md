@@ -27,9 +27,8 @@
 
 <p align="center">
 <a href="https://alexandresantosal91.github.io"><img src="https://img.shields.io/badge/-Portfolio-E4405F?style=flat&logo=Portfolio&logoColor=white"/></a>
- <a href="http://linktr.ee/alexandresantos.com"><img src="https://img.shields.io/badge/-Linktr-1877F2?style=flat&logo=Linktr&logoColor=white"/></a>
-<a href="https://medium.com/@alexandresantosal"><img src="https://img.shields.io/badge/-Medium-1769FF?style=flat&logo=Medium&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/alexandresantosal/"><img src="https://img.shields.io/badge/-LinkedIn-1877F2?style=flat&logo=Linktr&logoColor=white"/></a>
+<a href="http://linktr.ee/alexandresantos.com"><img src="https://img.shields.io/badge/-Linktr-1877F2?style=flat&logo=Linktr&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alexandresantosal/"><img src="https://img.shields.io/badge/-LinkedIn-1877F2?style=flat&logo=Linktr&logoColor=white"/></a>
 <a href="https://www.instagram.com/alexandresantosal91/"><img src="https://img.shields.io/badge/-Instagram-BD081C?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
