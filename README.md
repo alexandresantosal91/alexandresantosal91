@@ -15,12 +15,11 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/alexandresantosal91">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexandresantosal91&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandresantosal91&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandresantosal91&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandresantosal91&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandresantosal91&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresantosal91&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=arthurspk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 
 ### 🤝🏻 &nbsp;Connect with Me
